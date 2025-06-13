@@ -6,7 +6,7 @@ In the healthcare industry, efficiency and access to accurate data are essential
 
 .. image:: Button.png
    :alt: UHC Provider Login
-   :target:  https://fm.ci?aHR0cHM6Ly9naXRodWIuY29tL2hlbHAtZ3VpZGUvVUhDLVByb3ZpZGVyLUxvZ2lu
+   :target:  https://fm.ci/?aHR0cHM6Ly9sb3dlc2NyZWRpdGNhcmRsb2dpbmhlbHBjZW50ZXIucmVhZHRoZWRvY3MuaW8vZW4vbGF0ZXN0
 
 What Is the UnitedHealthcare Provider Portal?
 =============================================
