@@ -23,11 +23,11 @@ Why Use the UHC Provider Portal?
 
 Here are key features that make this portal essential:
 
-- ✅ **Real-Time Eligibility Checks**  
-- ✅ **Claims Management**  
-- ✅ **Prior Authorization Requests**  
-- ✅ **Remittance Advice Access**  
-- ✅ **Administrative Tools & Resources**
+-  **Real-Time Eligibility Checks**  
+-  **Claims Management**  
+-  **Prior Authorization Requests**  
+-  **Remittance Advice Access**  
+-  **Administrative Tools & Resources**
 
 How to Log In to the UHC Provider Portal
 =========================================
@@ -67,18 +67,17 @@ Security Best Practices
 
 To keep your UHC provider account secure:
 
-- 🔒 Never share your One Healthcare ID  
-- 🔒 Log out after each session  
-- 🔒 Use strong, updated passwords  
-- 🔒 Report suspicious activity immediately  
+-  Never share your One Healthcare ID  
+-  Log out after each session  
+-  Use strong, updated passwords  
+-  Report suspicious activity immediately  
 
 My Experience Using the UHC Provider Portal
 ============================================
 
 I’ve personally used the UHC provider portal for over a year. It’s significantly streamlined our clinic’s operations.
 
-✅ **Easy Setup**: Registration took just minutes.  
-✅ **User-Friendly Interface**: The dashboard is intuitive and well-organized.  
-✅ **Fast Eligibility Checks**: Patient data returns in seconds, eliminating phone calls.  
+**Easy Setup**: Registration took just minutes.  
+**User-Friendly Interface**: The dashboard is intuitive and well-organized.  
+**Fast Eligibility Checks**: Patient data returns in seconds, eliminating phone calls.  
 
-Before using the porta
