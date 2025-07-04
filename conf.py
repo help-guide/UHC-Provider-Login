@@ -31,7 +31,7 @@ html_short_title = "UHC Provider Login"
 html_favicon = 'favicon.ico'
 
 # Theme to use for HTML pages
-# html_theme = 'sphinx_rtd_theme'
+html_theme = 'sphinx_rtd_theme'
 
 # Hide "View page source"
 html_show_sourcelink = False
@@ -49,8 +49,8 @@ html_theme_options = {
 }
 
 # Paths to templates and static files
-templates_path = ['_templates']
+# templates_path = ['_templates']
 # html_static_path = ['_static']
 
 # Patterns to ignore when looking for source files
-exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
+# exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
