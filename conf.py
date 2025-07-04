@@ -31,7 +31,7 @@ html_short_title = "UHC Provider Login"
 html_favicon = 'favicon.ico'
 
 # Theme to use for HTML pages
-html_theme = 'sphinx_rtd_theme'
+# html_theme = 'sphinx_rtd_theme'
 
 # Hide "View page source"
 html_show_sourcelink = False
