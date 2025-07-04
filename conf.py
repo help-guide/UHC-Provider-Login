@@ -50,7 +50,7 @@ html_theme_options = {
 
 # Paths to templates and static files
 templates_path = ['_templates']
-html_static_path = ['_static']
+# html_static_path = ['_static']
 
 # Patterns to ignore when looking for source files
 exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
