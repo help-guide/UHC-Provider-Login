@@ -4,7 +4,7 @@ UnitedHealthcare Provider Login
 
 In the healthcare industry, efficiency and access to accurate data are essential for providers. That’s where the UnitedHealthcare (UHC) Provider Portal comes in. Whether you're checking claim status, verifying eligibility, or submitting authorizations, the portal offers a secure, streamlined way to manage patient interactions and administrative duties online.
 
-.. image:: Button.png
+.. image:: Button.png 
    :alt: UHC Provider Login
    :target: https://pre.im/?5AjQgoeFAldnvwmX5Q8LqcbNWTXWWhWaNlprvIo94PvD6VzkO5qLLe22Oi6KFU25CurHCZfArVVS26Clo
 
